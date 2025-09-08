@@ -12,6 +12,8 @@ This project showcases an end-to-end data analysis workflow entirely within Micr
   - Average Order Value (AOV)
   - Customer Purchase Frequency
   - Profit Margin Estimates
+  - Revenue Frequency and Monetary Analysis
+  - Elasticity based on the top Products 
 
 *My Project comprises four Excel sheets as explained below:*
 
