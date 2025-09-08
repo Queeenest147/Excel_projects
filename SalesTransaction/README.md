@@ -120,16 +120,20 @@ The final dashboard was built from the ground up with a focus on user experience
 ## 💡 Key Insights Uncovered
 
 - **Peak Performance:** September 2019 was the strongest month, driven by a spike in specific product sales.
+
+<img width="1534" height="527" alt="Screenshot 2025-09-08 144241" src="https://github.com/user-attachments/assets/ac997bf8-7cb4-4483-abae-2cc505807a15" />
+
+
 - **Top Products:** "Paper Craft Little Birdie", "Popcorn Holder" & "World War 2 Glider" emerged as the top revenue-driving products.
-- **Customer Loyalty:** A small group of loyal customers was responsible for a significant portion of the total revenue (Pareto Principle in action). As noticed in the month of September where a particular customer with the id 16646 bought a particular product for over $80,000.
+- **Customer Loyalty:** A small group of loyal customers was responsible for a significant portion of the total revenue (Pareto Principle in action). As noticed in the month of September. Where a particular customer with the id of 1646 bought a product(Paper Craft little Birdie)  for over $80,000.
 - **Business Growth:** Revenue in 2019 was significantly higher than in 2018, indicating steady business growth.
 
 ---
 
 ## 🏁 Final Thoughts
 
-This project was a fantastic learning experience. Moving from raw data to a polished, professional dashboard in Excel deepened my understanding of data storytelling, DAX-like calculations, and dashboard design. I'm incredibly proud of how interactive and insightful the final product turned out. 🙌
+😮‍💨 😅 This project was a fantastic learning experience. Moving from raw data to a polished, professional dashboard in Excel deepened my understanding of data storytelling, DAX-like calculations, and dashboard design. I'm incredibly proud of how interactive and insightful the final product turned out 💪😌.
 
-My skills are constantly growing, and the best part is that I am having so much fun. Well, as I would say,  onto the next project! 🚀
+My skills are constantly growing, and the best part is that I am having so much fun. Well, as I always say,  onto the next project! 🚀
 
 Thanks for checking this out! If you’re a recruiter, hiring manager, or fellow data nerd, I’d love to connect and get your feedback.
