@@ -6,18 +6,39 @@ This project showcases an end-to-end data analysis workflow entirely within Micr
 
 ## 🛠️ What I Did: Key Tasks & Features
 ### Data Cleaning & Preparation
-- Removed invalid entries, such as records with negative prices or quantities.
-- Created 3 extra Columns to narrow down the date of purchase in terms of days, months and years
-- Also calculated the profit gained from each sale made.
-- Created a measure using DAX
-- Created a dedicated **Calculations Sheet** to derive important metrics:
+- Said goodbye to invalid entries like negative prices and quantities. 
+- Added new columns for Day, Month, and Year to make date-based analysis.
+- Calculated the profit for every single sale to see what was *really* driving the business.
+- Built custom measures using DAX to unlock deeper, more powerful calculations beyond basic Excel formulas.
+- Created a dedicated Calculations Sheet to cook up all the important metrics:
   - `Total Revenue = Price × Quantity`
   - Average Order Value (AOV)
   - Customer Purchase Frequency
   - Profit Margin Estimates
-  - Revenue Frequency and Monetary Analysis
-  - Elasticity based on the top Products that generated the highest revenue
-  - Scenario Table showing the increase in revenue based on the changes of the average prices of  the products
+ 
+
+  - Recency, Frequency, and Monetary (RFM) Analysis
+ 
+<img width="169" height="182" alt="image" src="https://github.com/user-attachments/assets/c557d925-6f17-4b92-ad5f-df848a620387" />
+
+---
+
+  - Price Elasticity for top-selling products.
+
+<img width="737" height="597" alt="Screenshot 2025-09-08 152044" src="https://github.com/user-attachments/assets/94455a1f-accb-4d2d-9642-006ff808edf3" />
+
+---
+  - What-If Scenario Analysis to model how price changes could impact revenue.
+
+<img width="1002" height="235" alt="Screenshot 2025-09-08 151926" src="https://github.com/user-attachments/assets/5fd87cf6-c99d-4979-896b-a037dfaa30d7" />
+
+---
+
+- A two-input data table to observe how varying price affects revenue generated yearly over time.
+
+<img width="793" height="185" alt="Screenshot 2025-09-08 152002" src="https://github.com/user-attachments/assets/1b1802ce-797c-4929-b91e-aa0bf6743cfc" />
+
+
 
 ### Pivot Tables for Analysis
 I created several pivot tables to summarise the data and explore different trends:
@@ -125,15 +146,15 @@ The final dashboard was built from the ground up with a focus on user experience
 
 
 - **Top Products:** "Paper Craft Little Birdie", "Popcorn Holder" & "World War 2 Glider" emerged as the top revenue-driving products.
-- **Customer Loyalty:** A small group of loyal customers was responsible for a significant portion of the total revenue (Pareto Principle in action). As noticed in the month of September. Where a particular customer with the id of 1646 bought a product(Paper Craft little Birdie)  for over $80,000.
+- **Customer Loyalty:**** The Pareto Principle was in full effect! A small handful of loyal customers drove a huge chunk of revenue. One customer (ID 1646) even went on a wild shopping spree for "Paper Craft Little Birdie" in September, spending over $80,000. Talk about a super-fan!
 - **Business Growth:** Revenue in 2019 was significantly higher than in 2018, indicating steady business growth.
 
 ---
 
 ## 🏁 Final Thoughts
 
-😮‍💨 😅 This project was a fantastic learning experience. Moving from raw data to a polished, professional dashboard in Excel deepened my understanding of data storytelling, DAX-like calculations, and dashboard design. I'm incredibly proud of how interactive and insightful the final product turned out 💪😌.
+Phew! 😮‍💨😅 This project was a marathon, but I loved every minute. It pushed me to level up my skills in data storytelling, DAX, and dashboard design. I'm incredibly proud of how this turned from a mountain of messy data into something clean, interactive, and genuinely useful. 💪😌
 
-My skills are constantly growing, and the best part is that I am having so much fun. Well, as I always say,  onto the next project! 🚀
+My skills are constantly growing, and the best part is that I am having so much fun doing it. As I always say, onto the next project! 🚀
 
-Thanks for checking this out! If you’re a recruiter, hiring manager, or fellow data nerd, I’d love to connect and get your feedback.
+Thanks for checking this out! If you’re a recruiter, hiring manager, or fellow data nerd, I’d love to connect and hear your feedback.
